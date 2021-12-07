@@ -1,0 +1,6 @@
+# If your project has any requirements not included in anaconda, include them here
+
+Reddit API 
+    pip install praw
+    
+On the file submitted to github API credentials will be censored 
